@@ -5,7 +5,7 @@
 <!-- TITLE -->
 <h2 align="center" alt="title">
 
-    <head>   M O D E L A G E M  E  I N F E R E N C I A  E S T A T I S T I C A   </head>
+    <head>  M O D E L A G E M  E  I N F E R E N C I A  E S T A T I S T I C A  </head>
 
 </h2>
 
@@ -62,34 +62,55 @@
 >> Aula 09 - [Teste de hipótese e Previsão da resposta: Exemplos](https://www.youtube.com/watch?v=wtOYM6YQUzs)<br>
 >
 >> Aula 10 - [Adequações do modelo e modelos não lineares - Exemplos](https://www.youtube.com/watch?v=VEKzmq6yUgI)<br>
+>>> Path: __`.\Exercises\Aula_10\`__
+>>>> - Arquivo_do_Google_Colab-Aula10.ipynb
+>>>> - Carst2.csv
 
 <!-- SEMANA 05 -->
 >&#128311; **Semana 05**: Métodos de regressão gerais, Modelos Logístico e polinomial
->> Aula 11 - Padrões de projeto<br>
+>> Revisão
+>>> - [Matemática - Aula 12 - Polinômios (parte 1)](https://www.youtube.com/watch?v=7fjeWSdyi24)
 >
->> Aula 12 - Componentes de software<br>
+>> Aula 11 - [Métodos de regressão gerais e modelo logístico](https://www.youtube.com/watch?v=STzOYllLE6Y)<br>
+>>> Path: __`.\Exercises\Aula_11\`__
+>>>> - Arquivo_do_Google_Colab-Aula11.ipynb
 >
->> Aula 13 - Estratégias de teste de software<br>
->
->> Aula 14 - Teste funcional<br>
->
->> Aula 15 - Teste estrutural<br>
+>> Aula 12 - [Modelo polinomial](https://www.youtube.com/watch?v=_y5CnPkLoxk)<br>
+>>> Path: __`.\Exercises\Aula_12\`__
+>>>> - Arquivo_do_Google_Colab-Aula12.ipynb
 
 <!-- SEMANA 06 -->
->&#128310; **Semana 06**: Tipos de teste de software e desenvolvimento dirigido por testes
->> Aula 16 - Teste de desempenho<br>
+>&#128310; **Semana 06**: Modelo de regressão múltipla
+>> Aula 13 - [Modelo de regressão múltipla](https://www.youtube.com/watch?v=oYvfZqifrEc)<br>
+>>> `ERRATA: Na página 4 de 18, onde aparece x4 = x1x4, deveria aparecer x4 = x1x2.`
 >
->> Aula 17 - Teste de segurança<br>
+>> Aula 14 - [Modelo de regressão múltipla: Exercícios - parte 1](https://www.youtube.com/watch?v=nGSnVJ9VHYg)<br>
+>>> Path: __`.\Exercises\Aula_14\`__
+>>>> - Arquivo_do_Google_Colab-Aula14.ipynb
 >
->> Aula 18 - Desenvolvimento dirigido por testes<br>
+>> Aula 15 - [Modelo de regressão múltipla: Exercícios - parte 2](https://www.youtube.com/watch?v=p_0u3mPII5k)<br>
+>>> Path: __`.\Exercises\Aula_15\`__
+>>>> - Arquivo_do_Google_Colab-Aula15.ipynb
 
 <!-- SEMANA 07 -->
->&#128311; **Semana 07**: Entrega contínua
->> Aula 19 - Testes automatizados<br>
+>&#128311; **Semana 07**: Modelo de regressão múltipla – Parte 2
+>> Aula 16 - [Critérios de escolha em modelos de regressão múltipla](https://www.youtube.com/watch?v=_M_bLI3AvX8)<br>
 >
->> Aula 20 - Integração contínua<br>
+>> Aula 17 - [Critérios de escolha em modelos de regressão múltipla - Exercícios](https://www.youtube.com/watch?v=q-gT9Dou_v8)<br>
+>>> Path: __`.\Exercises\Aula_17\`__
+>>>> - Arquivo_do_Google_Colab-Aula17.ipynb
+>>>> - Cars_vertical1.txt
+>>>> - Cars_vertical2.txt
 >
->> Aula 21 - Gestão de configuração de software<br>
+>> Aula 18 - [Modelo de regressão múltipla com variáveis transformadas e com modelo logístico - Exercícios](https://www.youtube.com/watch?v=73jM3zptgNY)<br>
+>>> Path: __`.\Exercises\Aula_18\`__
+>>>> - Arquivo_do_Google_Colab-Aula18.ipynb
+
+<!-- SEMANA 08 -->
+>&#128311; **Semana 08**: Revisão
+>> - [Vídeo de Revisão](https://www.youtube.com/watch?v=wbRnPNsR6gY)<br>
+>
+>> - [Webconferência de Revisão](https://www.youtube.com/watch?v=P5nU3oiDufs)<br>
 
 
 ---
