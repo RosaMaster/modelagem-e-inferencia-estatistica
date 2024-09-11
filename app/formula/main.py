@@ -14,8 +14,8 @@ for i in range(1, n +1):
     SOMA_Y += lista[i - 1]
     SOMA_XY += i*lista[i - 1]
     
-print(f"ƩX: {SOMA_X}\n")
-print(f"ƩY: {SOMA_Y}\n")
+print(f"Ʃx: {SOMA_X}\n")
+print(f"Ʃy: {SOMA_Y}\n")
 print(f"Ʃx²: {SOMA_X2}\n")
 print(f"Ʃxy: {SOMA_XY}\n")
 
