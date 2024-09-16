@@ -21,6 +21,10 @@
 
 <!-- SEMANA 01 -->
 >&#128311; **Semana 01**: Introdução à disciplina e regressão linear simples
+>> APOIO
+>>> - [Estatística - Correlação e Regressão](https://www.youtube.com/watch?v=v6kI-9s2Qhk)
+>>> - [Estatística Diagrama de Ramos e Folhas](https://www.youtube.com/watch?v=xMqsd1zW62Y&t=1s)
+>
 >> Aula 01 - [Introdução da disciplina](https://www.youtube.com/watch?v=-l_klaoNNU0)<br>
 >
 >> Aula 02 - [Regressão linear](https://www.youtube.com/watch?v=dJrn2Uww254)<br>
@@ -33,6 +37,10 @@
 
 <!-- SEMANA 02 -->
 >&#128310; **Semana 02**: Análise de ajustes
+>> APOIO
+>>> - [Estatística - Exercícios sobre Correlação](https://www.youtube.com/watch?v=sKchGCUYJ5A)
+>>> - [Estatística Diagrama de Ramos e Folhas](https://www.youtube.com/watch?v=xMqsd1zW62Y&t=1s)
+>
 >> Aula 04 - [Regressão linear](https://www.youtube.com/watch?v=o_tIcNJLfIE)<br>
 >
 >> Aula 05 - [Análise de ajuste - Exemplo](https://www.youtube.com/watch?v=JLH1qTKec6s)<br>
