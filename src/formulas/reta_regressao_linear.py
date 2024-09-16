@@ -1,5 +1,14 @@
-''' Estatistica fórmula - RETA DE REGRESSÃO LINEAR '''
+''' Estatistica fórmula - RETA DE REGRESSÃO LINEAR 
 
+|  X   |  Y    |
+| ---- | ----- |
+| 1    | 50.5  |
+| 2    | 51.5  |
+| 3    | 52.1  |
+| 4    | 54.5  |
+| 5    | 56.2  |
+
+'''
 lista = [50.5, 51.5, 52.1, 54.5, 56.2]         # Lista de valores
 
 n = len(lista)                                 # Número de elementos
