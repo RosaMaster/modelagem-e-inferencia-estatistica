@@ -9,10 +9,9 @@
 
 </h2>
 
----
 
 <!-- DESCRIBLE -->
-> **Modelagem e Inferencia Estatística** é uma ferramenta poderosa para poder entender e prever resultados por meio de ajustes com expressões matemáticas aplicadas aos dados.
+**Modelagem e Inferencia Estatística** é uma ferramenta poderosa para poder entender e prever resultados por meio de ajustes com expressões matemáticas aplicadas aos dados.
 
 
 ---
